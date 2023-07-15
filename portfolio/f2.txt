@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<style>
+body {
+  background-image: url('https://t4.ftcdn.net/jpg/02/57/53/63/240_F_257536318_brHUe6pVC0KcLtDOvXOPyDyw2LoWjAXA.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.web{
+max-width: 800px;
+      margin: 0 auto;
+      background-color:white;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+</style>
+<div class="web">
+
+<h1>PROJECT AND CERTIFICATIONS</h1>
+
+<p>
+<h3>
+Projects</h3>
+Mini project on displaying temperature using gauge
+</p>
+<h3>
+Certification </h3>
+<p>
+<h4>Course completion certificates on Matlab:</h4><br>    Machine Learning Onramp<br>         MATLAB Onramp<br>            Solving Ordinary Differential Equation with MATLAB<br>
+2D/3D CAB Modeling of Building Design course certificate from Bentley Institute<br>
+E~Grahhie 4.0-NAtional Level Technical Contest (participation) from Jansons Institute of technology<br>
+Corporate Hackers (participation) fron SNS College of Engineering<br>
+
+<p><button onclick="window.location.href='f3.html';">Skills</button></p>
+</div>
+</html>
